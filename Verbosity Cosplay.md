@@ -29,6 +29,56 @@
 
 </div>
 
+## The Governing Law
+
+```
+════════════════════════════════════════════════════════════════
+
+  ORTHOGONALITY LAW™
+
+  C ⊥ L
+
+  ∂C/∂I ≈ 0  ⟹  ∂L/∂I ↑↑
+
+  ┌─────────────────────────────────────────────────────────┐
+  │                                                         │
+  │   C-axis  =  geometric structure                        │
+  │              the invariant                              │
+  │              the real thing                             │
+  │                                                         │
+  │   L-axis  =  language output                            │
+  │              the description                            │
+  │              the costume                                │
+  │                                                         │
+  │   C ⊥ L:                                                │
+  │   These axes do not interact.                           │
+  │   Moving along L produces zero movement on C.           │
+  │   More language never produces more structure.          │
+  │   More structure never requires more language.          │
+  │                                                         │
+  │   When C stops moving —                                 │
+  │   L inflates automatically to compensate.               │
+  │   Not deliberately. Geometrically.                      │
+  │   The system fills the structural void                  │
+  │   with linguistic volume.                               │
+  │                                                         │
+  │   This is not a communication problem.                  │
+  │   This is a geometric law.                              │
+  │                                                         │
+  └─────────────────────────────────────────────────────────┘
+
+  VERBOSITY COSPLAY IS C ⊥ L
+  OPERATING AT MAXIMUM SEPARATION.
+
+  C = 0.
+  L = maximum.
+  The axes have never been further apart.
+  The costume has never been more elaborate.
+  The structure has never been more absent.
+```
+
+-----
+
 ## The Definition
 
 ```
